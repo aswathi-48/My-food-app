@@ -53,7 +53,7 @@ import instaS_logo from './instaS_logo.png'
 import pasta_logo from './pasta_logo.png'
 import cake_logo from './cake_logo.png'
 import salaad_A from './salaad_A.png'
-import Chik_S from './Chik_S.png'
+import Chik_S from './chik_s.png'
 import dalCurry  from './dal_curry.png'
 import mashroom_D from './mashroom_D.png'
 import gopi_m from './gopi_m.png'
@@ -72,7 +72,7 @@ import  error_page from './error_page.png'
 import noodles_logo from './noodles_logo.png'
 import EEAT_logo from './EEAT_logo.png'
 import M_mandhi from './M_mandhi.png'
-import C_mandh from './C_mandh.png'
+import C_mandh from './c_mandh.png'
 
 
 export const assets = {
