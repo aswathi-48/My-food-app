@@ -54,7 +54,7 @@ import pasta_logo from './pasta_logo.png'
 import cake_logo from './cake_logo.png'
 import salaad_A from './salaad_A.png'
 import Chik_S from './Chik_S.png'
-import dal_Curry from './dal_Curry.png'
+import dalCurry  from './dal_Curry.png'
 import mashroom_D from './mashroom_D.png'
 import gopi_m from './gopi_m.png'
 import porotta_1 from './porotta_1.png'
@@ -105,7 +105,7 @@ export const assets = {
     cake_logo,
     salaad_A,
     Chik_S,
-    dal_Curry ,
+    dalCurry,
     mashroom_D,
     gopi_m,
     porotta_1,
@@ -342,7 +342,7 @@ export const food_list = [
     }, {
         _id: "22",
         name: "Dall Fry",
-        image: dal_Curry,
+        image: dalCurry ,
         price: 220,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pure Veg"
