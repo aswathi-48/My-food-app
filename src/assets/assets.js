@@ -53,7 +53,7 @@ import instaS_logo from './instaS_logo.png'
 import pasta_logo from './pasta_logo.png'
 import cake_logo from './cake_logo.png'
 import salaad_A from './salaad_A.png'
-import Chik_S from './chik_s.png'
+import chik_s from './chik_s.png'
 import dalCurry  from './dal_curry.png'
 import mashroom_D from './mashroom_D.png'
 import gopi_m from './gopi_m.png'
@@ -104,7 +104,7 @@ export const assets = {
     pasta_logo,
     cake_logo,
     salaad_A,
-    Chik_S,
+    chik_s,
     dalCurry,
     mashroom_D,
     gopi_m,
@@ -426,7 +426,7 @@ export const food_list = [
     }, {
         _id: "36",
         name: "Chicken Salad",
-        image: Chik_S,
+        image: chik_s,
         price: 240,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Salad"
